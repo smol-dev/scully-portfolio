@@ -1,6 +1,6 @@
 ---
 title: Angular Unit Testing
-description: blog description
+description: A tutorial on how to perform unit testing in Angular
 published: true
 ---
 
