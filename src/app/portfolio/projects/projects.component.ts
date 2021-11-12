@@ -14,7 +14,7 @@ export class ProjectsComponent {
     mergeMap(atHome => this.projectsService.getProjects(atHome))
   );
 
-  tempOptions = [
+  respOptions = [
     { viewClasses: 'd-none d-md-flex', displayInColumn: false, useSmallerHeadings: false, titleClasses: 'display-3' },
     { viewClasses: 'd-flex d-md-none', displayInColumn: true, useSmallerHeadings: true, titleClasses: '' }
   ];
